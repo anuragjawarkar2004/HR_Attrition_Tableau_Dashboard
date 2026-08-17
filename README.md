@@ -75,6 +75,6 @@ HR-Attrition-Tableau-Dashboard/
 
 The objective of this project is to analyze employee attrition patterns and identify workforce factors that may be associated with employee turnover. The dashboard provides an interactive view of attrition across departments, work-life balance, overtime, income, tenure, and job roles.
 
-## Project Pitch
+## Project 
 
 > I built an HR attrition dashboard in Tableau using employee data to analyze department-wise attrition, the impact of work-life balance and overtime, and differences in income and tenure between employees who stayed and left. The dashboard highlights actionable patterns that can help HR teams identify areas where employee retention may need attention.
