@@ -27,12 +27,12 @@ An HR analytics dashboard built in Tableau using a employee dataset of 400 emplo
 
 The final Tableau dashboard includes:
 
-1. **KPI Summary** — Total Headcount, Attrition Rate, Average Monthly Income, and Average Tenure.
-2. **Attrition by Department** — Compares attrition rates across Finance, Operations, HR, R&D, IT, and Sales.
-3. **OverTime Impact** — Shows the difference in attrition between employees working overtime and those who do not.
-4. **Attrition by Work-Life Balance** — Shows how attrition changes across Work-Life Balance ratings 1–4.
-5. **Headcount by Department** — Displays the distribution of employees across departments.
-6. **Headcount by Job Role** — Shows employee headcount across job roles, with attrition status represented in the chart.
+1. **KPI Summary** - Total Headcount, Attrition Rate, Average Monthly Income, and Average Tenure.
+2. **Attrition by Department** - Compares attrition rates across Finance, Operations, HR, R&D, IT, and Sales.
+3. **OverTime Impact** - Shows the difference in attrition between employees working overtime and those who do not.
+4. **Attrition by Work-Life Balance** - Shows how attrition changes across Work-Life Balance ratings 1–4.
+5. **Headcount by Department** - Displays the distribution of employees across departments.
+6. **Headcount by Job Role** - Shows employee headcount across job roles, with attrition status represented in the chart.
 
 ## Dataset
 
@@ -53,8 +53,8 @@ The project uses `hr_employee_data.csv`, containing one row per employee and 26 
 
 ## Tools Used
 
-- **Tableau** — Data visualization and dashboard development
-- **CSV / Excel-compatible data** — Dataset source
+- **Tableau** - Data visualization and dashboard development
+- **CSV / Excel-compatible data** - Dataset source
 
 ## Files in This Repository
 
