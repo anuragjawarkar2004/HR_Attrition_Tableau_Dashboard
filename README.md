@@ -67,9 +67,7 @@ HR-Attrition-Tableau-Dashboard/
 └── README.md
 ```
 
-## Tableau Public
 
-**Tableau Public Dashboard:** Add your Tableau Public link here after publishing the workbook.
 
 ## Project Objective
 
