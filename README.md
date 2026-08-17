@@ -1,6 +1,6 @@
-# HR Attrition & Workforce Analytics — Tableau Dashboard
+# HR Attrition & Workforce Analytics - Tableau Dashboard
 
-An HR analytics dashboard built in Tableau using a synthetic employee dataset of 400 employees. The dashboard focuses on employee attrition, department-level trends, work-life balance, overtime impact, income, tenure, and job-role headcount.
+An HR analytics dashboard built in Tableau using a employee dataset of 400 employees. The dashboard focuses on employee attrition, department-level trends, work-life balance, overtime impact, income, tenure, and job-role headcount.
 
 ## Dashboard Preview
 
